@@ -20,7 +20,7 @@
 ### 基本工具篇
 * [[收錄] 一些 Python Reg Exp 的文章](../../wiki/%5B收錄%5D-一些-Python-Reg-Exp-的文章)
 
-### python 程式管理篇
+### 程式碼管理篇
 * [如何管理 python 模組](../../wiki/如何管理-python-模組)
 * [探討 Python 的 Annotation 註解](../../wiki/探討-Python-的-Annotation-註解)
 
