@@ -12,10 +12,13 @@
 * [來踩 __my_name, __my_name__ 地雷](../../wiki/來踩-__my_name,-__my_name__-地雷)
 * [Python 函數的「一顆星*」與「兩顆星**」](../../wiki/Python-函數的「一顆星*」與「兩顆星**」)
 * [拿 set() 來列舉實體，不保證每次列舉，都會得到相同序列](./../wiki/拿-set()-來列舉實體，不保證每次列舉，都會得到相同序列)
-* [探討 Python 的生成器(Generator)](../../wiki/探討-Python-的生成器(Generator))
 * [探討 Python 的繼承衝突](../../wiki/探討-Python-的繼承衝突)
 * [探討 Python 的繼承關係](../../wiki/探討-Python-的繼承關係)
 * [[地雷] 同名類別，且具有繼承關係，但位於不同模組下](../../wiki/%5B地雷%5D-同名類別，且具有繼承關係，但位於不同模組下)
+
+### 進階語法篇
+* [探討 Python 的生成器(Generator)](../../wiki/探討-Python-的生成器(Generator))
+* [探討 Python 的運算子](../../wiki/探討-Python-的運算子)
 
 ### 基本工具篇
 * [[收錄] 一些 Python Reg Exp 的文章](../../wiki/%5B收錄%5D-一些-Python-Reg-Exp-的文章)
