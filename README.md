@@ -24,6 +24,7 @@
 
 ### 基本工具篇
 * [[收錄] 一些 Python Reg Exp 的文章](../../wiki/%5B收錄%5D-一些-Python-Reg-Exp-的文章)
+* [[收錄] 一些 Python Exception,Error 的定義與使用情境](../../wiki/%5B收錄%5D-一些-Python-Exception,Error-的定義與使用情境)
 
 ### 程式碼管理篇
 * [如何管理 python 模組](../../wiki/如何管理-python-模組)
