@@ -21,6 +21,7 @@
 
 
 ### 進階語法篇
+* [探討 Python 物件生成](../../wiki/探討-Python-的物件生成)
 * [探討 Python 的生成器(Generator)](../../wiki/探討-Python-的生成器(Generator))
 * [探討 Python 的運算子](../../wiki/探討-Python-的運算子)
 
