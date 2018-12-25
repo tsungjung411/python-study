@@ -38,3 +38,6 @@
 * [sequence轉id, id轉sequence](../../wiki/sequence轉id,-id轉sequence)
 * [如何列舉多維度陣列索引？](../../wiki/如何列舉多維度陣列索引？)
 * [如何實作 unstack 函數？](../../wiki/如何實作-unstack-函數？)
+
+### 遊戲篇
+* [使用「消去法」解數獨](../../wiki/使用「消去法」解數獨)
