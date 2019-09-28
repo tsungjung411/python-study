@@ -25,6 +25,10 @@
 * [探討 Python 的生成器(Generator)](../../wiki/探討-Python-的生成器(Generator))
 * [探討 Python 的運算子](../../wiki/探討-Python-的運算子)
 
+### 完整教學篇
+* [Python 之旅](http://funhacks.net/explore-python/)
+** [[github] ethan-funny / explore-python](https://github.com/ethan-funny/explore-python/)
+
 ### 基本工具篇
 * [[收錄] 一些 Python Reg Exp 的文章](../../wiki/%5B收錄%5D-一些-Python-Reg-Exp-的文章)
 * [[收錄] 一些 Python Exception,Error 的定義與使用情境](../../wiki/%5B收錄%5D-一些-Python-Exception,Error-的定義與使用情境)
