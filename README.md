@@ -30,6 +30,7 @@
   * [[github] ethan-funny / explore-python](https://github.com/ethan-funny/explore-python/)
 
 ### 基本工具篇
+* [[收錄] 一些 Python 輸出格式化的文章](../../wiki/%5B收錄%5D-一些-Python-輸出格式化的文章)
 * [[收錄] 一些 Python Reg Exp 的文章](../../wiki/%5B收錄%5D-一些-Python-Reg-Exp-的文章)
 * [[收錄] 一些 Python Exception,Error 的定義與使用情境](../../wiki/%5B收錄%5D-一些-Python-Exception,Error-的定義與使用情境)
 * [[收錄] 一些 Python 套件使用的文章](../../wiki/%5B收錄%5D-一些-Python-套件使用的文章)
