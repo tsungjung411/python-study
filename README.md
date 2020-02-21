@@ -35,6 +35,9 @@
 * [[收錄] 一些 Python Exception,Error 的定義與使用情境](../../wiki/%5B收錄%5D-一些-Python-Exception,Error-的定義與使用情境)
 * [[收錄] 一些 Python 套件使用的文章](../../wiki/%5B收錄%5D-一些-Python-套件使用的文章)
 
+### 系統互動篇
+* [如何跟系統互動](../../wiki/如何跟系統互動)
+
 ### 程式碼管理篇
 * [如何管理 python 模組](../../wiki/如何管理-python-模組)
 * [探討 Python 的 Annotation 註解](../../wiki/探討-Python-的-Annotation-註解)
