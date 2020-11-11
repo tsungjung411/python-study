@@ -40,6 +40,9 @@
 * [[系統互動篇] 如何在 terminal 中控制輸出位置](../../wiki/%5B系統互動篇%5D-如何在-terminal-中控制輸出位置)
 * [[系統互動篇] python 與 shell script](../../wiki/%5B系統互動篇%5D-python-與-shell-script)
 
+### 遠端伺服器篇
+* [[遠端伺服器篇] 如何快速啟動「遠端伺服器」的web界面的檔案瀏覽器(web-based file browser)](../../wiki/%5B系統互動篇%5D-如何從系統命令列，讀取輸入的參數)
+
 ### 程式碼管理篇
 * [如何管理 python 模組](../../wiki/如何管理-python-模組)
 * [探討 Python 的 Annotation 註解](../../wiki/探討-Python-的-Annotation-註解)
