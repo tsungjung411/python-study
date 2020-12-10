@@ -29,6 +29,9 @@
 * [Python 之旅](http://funhacks.net/explore-python/)
   * [[github] ethan-funny / explore-python](https://github.com/ethan-funny/explore-python/)
 
+### 文字處理篇
+* [[文字處理篇] 編碼與解碼](../../wiki/%5B文字處理篇%5D-編碼與解碼)
+
 ### 基本工具篇
 * [[收錄] 一些 Python 輸出格式化的文章](../../wiki/%5B收錄%5D-一些-Python-輸出格式化的文章)
 * [[收錄] 一些 Python Reg Exp 的文章](../../wiki/%5B收錄%5D-一些-Python-Reg-Exp-的文章)
