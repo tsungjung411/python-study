@@ -52,6 +52,7 @@
 ### 程式碼管理篇
 * [如何管理 python 模組](../../wiki/如何管理-python-模組)
 * [探討 Python 的 Annotation 註解](../../wiki/探討-Python-的-Annotation-註解)
+* [[模組管理篇] 如何動態載入模組(module)和類別(class)](../../wiki/%5B模組管理篇%5D-如何動態載入模組(module)和類別(class))
 
 ### 機器學習篇
 * [sequence轉id, id轉sequence](../../wiki/sequence轉id,-id轉sequence)
