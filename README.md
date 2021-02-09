@@ -51,6 +51,7 @@
 * [[系統互動篇] 如何在 terminal 中控制輸出位置](../../wiki/%5B系統互動篇%5D-如何在-terminal-中控制輸出位置)
 * [[系統互動篇] python 與 shell script](../../wiki/%5B系統互動篇%5D-python-與-shell-script)
 * [[系統互動篇] 如何遞迴走訪一個目錄底下的所有子目錄與檔案](../../wiki/%5B系統互動篇%5D-如何遞迴走訪一個目錄底下的所有子目錄與檔案)
+* [[系統互動篇] 如何在 python notebook 上直接安裝套件](../../wiki/%5B系統互動篇%5D-如何在-python-notebook-上直接安裝套件)
 
 ### 遠端伺服器篇
 * [[遠端伺服器篇] 如何快速啟動「遠端伺服器」的web界面的檔案瀏覽器(web-based file browser)](../../wiki/%5B遠端伺服器篇%5D-如何快速啟動「遠端伺服器」的web界面檔案瀏覽器(web-based-file-browser))
