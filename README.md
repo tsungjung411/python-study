@@ -1,7 +1,11 @@
 
 這裡是跟 python 3.X 有關的讀書心得集散地，請前往 [wiki](../../wiki) 閱讀
 
-線上試用 IPython 程式：https://www.pythonanywhere.com/try-ipython/
+線上試用 IPython 程式：
+- https://www.pythonanywhere.com/try-ipython/
+
+線上試用 Python 程式：
+- https://pythonexamples.org/run.php?pgm=import+pandas+as+pd
 
 <br>
 
