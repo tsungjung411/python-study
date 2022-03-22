@@ -84,3 +84,5 @@
 
 ### Cython 篇
 * [[Cython篇] hello world](../../wiki/%5BCython篇%5D-hello-world)
+
+### [生活篇](../../wiki/生活篇)
